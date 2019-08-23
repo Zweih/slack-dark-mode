@@ -9256,6 +9256,7 @@ textarea.c-input_textarea.c-input_textarea--with_hint,
 textarea.c-input_textarea.c-input_textarea--with_character_count {
   background-color: var(--main-highlight);
   color: #f8f8f8;
+  background-color: var(--main-highlight);
 }
 
 ts-jumper input[type=text] {
