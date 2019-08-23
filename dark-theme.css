@@ -9740,3 +9740,7 @@ ts-thread ts-message.new_reply:hover {
 .p-message_pane__unread_banner__close:hover {
   background: var(--text-hover);
 }
+
+.p-dm_browser_modal__list_row--active {
+  background-color: var(--main-dark-highlight) !important;
+}
