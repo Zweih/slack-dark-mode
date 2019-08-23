@@ -1385,6 +1385,10 @@ a.c-member_slug, .c-member_slug--link, .c-mrkdwn__subteam--link {
   background-color: #222;
 }
 
+.c-multi_pane_modal .c-sk-modal_header {
+  background-color: #222;
+}
+
 .c-multi_select_input__input--initial {
   background-color: #949494;
 }
@@ -1496,19 +1500,7 @@ a.c-member_slug, .c-member_slug--link, .c-mrkdwn__subteam--link {
   color: var(--main-text);
 }
 
-.c-select_options_list__option {
-  color: var(--main-text) !important;
-}
-
-.c-select_options_list__option--active {
-  color: var(--main-text) !important;
-}
-
-.c-select_options_list__option--selected {
-  color: #3aa3e3 !important;
-}
-
-.c-sk-modal__content__inner, .c-sk-modal_footer, .c-sk-modal_title_bar--pad_right {
+.c-sk-modal__content__inner, .c-sk-modal_footer {
   background-color: var(--main-bg-color);
 }
 
