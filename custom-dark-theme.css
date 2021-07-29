@@ -1,0 +1,24 @@
+:root {
+  /* General hightlighs and warnings (important and new stuff) */
+  --highlight-and-warnings: #53001ce5;
+  /* Light hightlighs and warnings */
+  --highlight-and-warnings-light: #ff3270;
+  /* General background */
+  --main-bg-color: #101116;
+  /* General code text */
+  --main-code: #FF9800;
+  /* Text input, dividers */
+  --main-dark-highlight: #182333;
+  /* Message bar top (new messages), Currently selected chat, Nes messages line */
+  --main-highlight: #311b92;
+  /* Main text in the chat windows */
+  --main-text: #ff0055;
+  /* Secondary text (70% of main text) */
+  --secondary-text: #be4e74;
+  /* Sidebar background color */
+  --sidebar-bg-color: #0a0b0e;
+  /* Based on the usage should be link hover color */
+  --text-hover: #c7c7c7;
+  /* Thread background color */
+  --thread-bg-color: #222;
+}
